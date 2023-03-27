@@ -1,0 +1,7 @@
+pre-commit
+isort
+casadi
+matplotlib
+numpy
+sympy
+polytope
